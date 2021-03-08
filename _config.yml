@@ -16,7 +16,7 @@ author: Ephraim.
 navbar-links:
   About Me: "About Me"
   Resources:
-    - Beautiful Jekyll: "https://youtube.com"
+    - YT Channel: "https://youtube.com"
 
 
 # --- Logo --- #
@@ -38,7 +38,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+# email: "someone@example.com"
   github: ziko-e
   youtube: c/
 #  medium: yourname
@@ -48,7 +48,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  spotify: yourname
+   spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -92,14 +92,14 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#eeecda"
+navbar-col: "f08a5d"
 navbar-text-col: "#6a2c70"
-navbar-border-col: "#eeecda"
-page-col: "#f08a5d"
+navbar-border-col: "#f08a5d"
+page-col: "#eeecda"
 text-col: "#6a2c70"
 link-col: "#b83b5e"
 hover-col: "#1f6f8b"
-footer-col: "#eeecda"
+footer-col: "#f08a5d"
 footer-text-col: "#6a2c70"
 footer-link-col: "#b83b5e"
 
